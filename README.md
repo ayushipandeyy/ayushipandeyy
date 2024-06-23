@@ -18,11 +18,6 @@ I'm Ayushi, a Master's student in Marketing Intelligence at Towson University, M
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-34A853?style=flat&logo=arcgis&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushipandeyy&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushipandeyy&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushipandeyy&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
