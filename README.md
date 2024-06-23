@@ -17,9 +17,6 @@ I'm Ayushi, a Master's student in Marketing Intelligence at Towson University, M
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushipandeyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
